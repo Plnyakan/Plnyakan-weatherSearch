@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Plnyakan-weatherSearch/static/css/main.b8b4bd4c.css",
+    "main.js": "/Plnyakan-weatherSearch/static/js/main.b2726cdc.js",
+    "static/js/787.1a626c8e.chunk.js": "/Plnyakan-weatherSearch/static/js/787.1a626c8e.chunk.js",
+    "static/media/warm-bg.jpg": "/Plnyakan-weatherSearch/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/Plnyakan-weatherSearch/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/Plnyakan-weatherSearch/index.html",
+    "main.b8b4bd4c.css.map": "/Plnyakan-weatherSearch/static/css/main.b8b4bd4c.css.map",
+    "main.b2726cdc.js.map": "/Plnyakan-weatherSearch/static/js/main.b2726cdc.js.map",
+    "787.1a626c8e.chunk.js.map": "/Plnyakan-weatherSearch/static/js/787.1a626c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b4bd4c.css",
+    "static/js/main.b2726cdc.js"
+  ]
+}
